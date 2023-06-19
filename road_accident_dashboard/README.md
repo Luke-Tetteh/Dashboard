@@ -9,3 +9,21 @@ In this project, we have a client who needs a Road Accident Dashboard for year 2
 - Maximum casualties by Road Type
 - Distribution of total casualties by Road Surface
 - Relation between Casualties by Area/Location & by Day/Night
+
+## Stakeholders
+The following stakeholders can use this dashboard:
+- Ministry of Transport
+- Road Transport Department
+- Police Force
+- Emergency Services Department
+- Road Safety Corps
+- Transport Operators 
+- Traffic Management Agencies
+- Public
+- Media
+
+## Metadata
+- File Extension - **xlsx**
+- No of Rows - **3.07 million**
+- No of Fields - **21**
+
